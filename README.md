@@ -1,4 +1,5 @@
-# Welcome :blue_heart::blue_heart::blue_heart:   
+![Blue-hear-mohammad-parvin](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/blue-heart.png)
+# Welcome
 
 Hi! I'm Senior Sysadmin with hands-on experience with Linux, Bash Scripting, Docker, Python, Galera, Ansible, Git, CI/CD, Automation and DevOps processes.
 
