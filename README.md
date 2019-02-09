@@ -1,4 +1,3 @@
-![Mohammad Parvin avatar](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/Mohammad-Parvin.png)
 # Mohammad Parvin   
 
 Hi! I'm Senior Sysadmin with hands-on experience with Linux, Bash Scripting, Docker, Python, Galera, Ansible, Git, CI/CD, Automation and DevOps processes.
@@ -41,3 +40,4 @@ Please send your feedback with these ways:
 [Intsagram (@MMParvin)](http://instagram.com/mmparvin/)
 [Gmail (@m.parvin986)](mailto:m.parvin986@gmail.com)
 [Telegram (@MMParvin]([https://t.me/mmparvin)
+[Stackoverflow](https://stackoverflow.com/users/story/4170985)
