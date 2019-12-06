@@ -17,12 +17,37 @@ You can see my online CV here:
 - **AfraSEO.com**.
 	> Afraseo.com was a social website for SEO specialists, This project will start in 2020.
 
+## All companies I worked
 
+- **Infotech**
+	> As network admin and Hardware engineer
+- **Afranet**
+	> Datacenter tecnician and Plesk administrator
+- **Parsian**
+	> Windows server and Linux server administrator
+- **ParsTelecom**
+	> Linux server administrator and PHP Developer
+- **Damatajhiz.com**
+	> Linux server administrator and CTO
+- **Banimode.com**
+	> Linux server administrator and Devops
+	
 ## What can I do?
 
-I can install, manage and optimize your database, web and API servers.
+I can:
+- Setup and Cluster Web servers
+- Setup and Cluster MySQL and Mariadb servers
+- Setup and Cluster Elasticsearch servers
 
-For know what can I do and see my expriences, I recommend to You see [MyCV](http://mycv.mparvin.ir) Or see my [Linkedin](https://www.linkedin.com/in/mparvin/).
+- Optimize Web servers
+- Hardedning Web and Database server
+- Security test
+
+- Deploy CI/CD with Gitlab
+
+
+
+For know more about me I recommend to You see my [Linkedin](https://www.linkedin.com/in/mparvin/).
 
 ## My Articles
 
@@ -34,7 +59,7 @@ My English articles:
 My Persian articles:
 [Mohammad Parvin in Virgool.io](https://virgool.io/@MMParvin/)
 
-Please send your feedback with these ways:
+You can contact with me by:
 
 ![Mohammad parvin twitter](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/twitter.png)
 [Twitter (@MMParvin)](http://twitter.com/mmparvin)
@@ -54,8 +79,10 @@ Please send your feedback with these ways:
 ![Mohammad parvin telegram](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/telegram.png)
 [Telegram (@MMParvin)](https://t.me/mmparvin)
 
+Watch my videos in:
+
+![Mohammad parvin aparat](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/youtube.png)
+[Youtube (@MParvin)](https://youtube.com/mparvin)
+
 ![Mohammad parvin aparat](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/aparat.png)
 [Aparat (@MParvin)](https://aparat.com/mparvin)
-
-![Mohammad parvin virgool](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/virgool.png)
-[Virgool (@MMParvin)](https://virgool.io/@MMParvin/)
