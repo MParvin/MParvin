@@ -53,10 +53,10 @@ For know more about me I recommend to You see my [Linkedin](https://www.linkedin
 
 Please read my articles and send your feedback to me. ;)
 
-My English articles:
+My English articles![Mohammad Parvin Medium](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/medium.png):
 [Mohammad Parvin in Medium.com](https://medium.com/@MMParvin)
 
-My Persian articles:
+My Persian articles![ویرگول محمد پروین](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/virgool.png):
 [Mohammad Parvin in Virgool.io](https://virgool.io/@MMParvin/)
 
 You can contact with me by:
