@@ -7,7 +7,7 @@ Hi! I'm Senior Sysadmin with hands-on experience with Linux, Bash Scripting, Doc
 # My CV
 
 You can see my online CV here:
-[Mohamamd Parvin CV](http://mycv.mparvin.ir)
+[Mohamamd Parvin CV](https://github.com/MParvin/MParvin/raw/master/assets/pdf/MyCV.pdf)
 
 ## My Projects
 
