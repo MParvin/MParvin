@@ -35,15 +35,16 @@ You can see my online CV here:
 ## What can I do?
 
 I can:
+- Design network and servers plan 
 - Setup and Cluster Web servers
 - Setup and Cluster MySQL and Mariadb servers
 - Setup and Cluster Elasticsearch servers
-
-- Optimize Web servers
+- Setup Any services on Linux or Windows servers
+- Setup VPN for securing your Network
+- Optimize Web sites
 - Hardedning Web and Database server
 - Security test
-
-- Deploy CI/CD with Gitlab
+- Setup CI/CD 
 
 
 
@@ -66,9 +67,6 @@ You can contact with me by:
 ![Mohammad parvin twitter](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/twitter.png)
 [Twitter (@MMParvin)](http://twitter.com/mmparvin)
 
-![Mohammad parvin linkedin](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/linkedin.png)
-[Linkedin (@MParvin)](https://www.linkedin.com/in/mparvin/)
-
 ![Mohammad parvin facebook](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/facebook.png)
 [Facebook (@MMParvin)](https://www.facebook.com/mmparvin/)
 
@@ -83,7 +81,7 @@ You can contact with me by:
 
 Watch my videos in:
 
-![Mohammad parvin aparat](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/youtube.png)
+![Mohammad parvin youtube](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/youtube.png)
 [Youtube (@MParvin)](https://youtube.com/mparvin)
 
 ![Mohammad parvin aparat](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/aparat.png)
