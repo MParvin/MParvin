@@ -34,4 +34,4 @@ My English articles ![Mohammad Parvin Medium](https://raw.githubusercontent.com/
 Watch my videos in:
 
 ![Mohammad parvin youtube](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/youtube.png)
-[Youtube (@MParvin)](https://youtube.com/mparvin)
+[Youtube (@MParvin)](https://www.youtube.com/channel/UCZmOj_D0Nk3n5JyizByWmoA)
