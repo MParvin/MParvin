@@ -20,7 +20,7 @@ Please read my articles and send your feedback to me. ;)
 
 My English articles ![Mohammad Parvin Medium](https://raw.githubusercontent.com/MParvin/MParvin/master/assets/img/socials/medium.png):
 
-[Mohammad Parvin in Medium.com](https://medium.com/@MMParvin)
+[Mohammad Parvin in Medium.com](https://medium.com/@MParvin)
 
 ## Contact Me
 
