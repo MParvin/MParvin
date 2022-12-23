@@ -1,8 +1,1 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mparvin" alt="mparvin" /></a> </p>
-
-<p style="margin-left: 10%;" >
-  
-<img style="margin-left: 10%;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mparvin&layout=compact&theme=default">
-<img style="margin-left: 10%;" height="160em" src="https://github-readme-stats.vercel.app/api?username=mparvin&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-
-</p>
+![Metrics](https://metrics.lecoq.io/mparvin?template=classic&isocalendar=1&stargazers=1&calendar=1&achievements=1&gists=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&discussions=false&discussions.categories=true&discussions.categories.limit=0&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&config.timezone=Europe%2FIstanbul)
