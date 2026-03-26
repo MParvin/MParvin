@@ -1,6 +1,6 @@
 ## About
 
-A mix of nerd and geek, with most of my time spent around systems and infrastructure.
+A mix of nerd and geek, with most of my time spent around development and automation.
 
 ## Interests
 
